@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421486208 source:/home/panda/Документы/mem/main.cpp
+	<iostream>
+	<string>
+	<list>
+

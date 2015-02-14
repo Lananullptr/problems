@@ -1,0 +1,26 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+#include "File3.h"
+#include <tchar.h>
+//---------------------------------------------------------------------------
+
+#pragma argsused
+int _tmain(int argc, _TCHAR* argv[])
+{
+	int c,n, houses, range;
+	string street;
+	do{
+		cout<<"1-add/2-change/3-delete/5-exit";
+		cin>>c;
+		switch (c) {
+		case 1: cin>>street>>houses>>range; add_st(street, houses, range); break;
+		case 2: cin>>n; change(n); break;
+		case 3: cin>>n; del(n); break;
+		case 4: rd_f(); show(); break;
+		case 5: clear(); break;
+		}
+	}while(c!=5);
+	return 0;
+}
+//---------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014.11.14 12:10:05.859,=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2014.11.14 12:10:51.562,=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2014.11.14 12:11:10.593,=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File3.h</Transaction>
+    <Transaction>2014.11.14 12:39:24.031,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File1.cpp=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2014.11.14 12:39:36.125,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File3.h=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File3.h</Transaction>
+    <Transaction>2014.11.14 12:39:37.218,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File2.cpp=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2014.11.14 12:39:39.187,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\Project1.cbproj=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2014.11.14 12:39:49.734,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\main.cpp=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File1.cpp</Transaction>
+    <Transaction>2014.11.14 12:39:57.828,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\back.cpp=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File2.cpp</Transaction>
+    <Transaction>2014.11.14 12:40:04.265,C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\back.h=C:\Documents and Settings\Пользователь\Мои документы\RAD Studio\Projects\list\File3.h</Transaction>
+  </Transactions>
+</BorlandProject>
