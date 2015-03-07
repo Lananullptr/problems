@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1425701702 source:/home/panda/Документы/shop/gps.cpp
+	"gps.h"
+	"incl.h"
+
+1425701990 /home/panda/Документы/shop/gps.h
+	"nav.h"
+	<string>
+
+1425701990 /home/panda/Документы/shop/nav.h
+	<string>
+
+1425701219 /home/panda/Документы/shop/incl.h
+	"gps.h"
+	"map.h"
+	"nav.h"
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstring>
+
+1425701990 /home/panda/Документы/shop/map.h
+	"nav.h"
+	<string>
+
+1425702046 source:/home/panda/Документы/shop/main.cpp
+	"main.h"
+
+1425701464 source:/home/panda/Документы/shop/map.cpp
+	"map.h"
+	"incl.h"
+
+1425702106 source:/home/panda/Документы/shop/nav.cpp
+	"nav.h"
+	"incl.h"
+
+1425720730 /home/panda/Документы/shop/main.h
+	"incl.h"
+
